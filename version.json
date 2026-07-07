@@ -1,0 +1,28 @@
+{
+  "app": {
+    "name": "e'Books",
+
+    "stable": {
+      "version_name": "2.0.0",
+      "version_code": 2,
+
+      "mandatory": false,
+
+      "release_date": "2026-07-07",
+
+      "download_url": "",
+
+      "sha256": "",
+
+      "apk_size": "",
+
+      "min_sdk": 33,
+
+      "target_sdk": 36,
+
+      "changelog": [
+        "Primera versión del sistema de actualizaciones."
+      ]
+    }
+  }
+}
