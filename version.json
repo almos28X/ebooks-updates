@@ -4,13 +4,14 @@
 
     "stable": {
       "version_name": "2.0.0",
+
       "version_code": 2,
 
       "mandatory": false,
 
       "release_date": "2026-07-07",
 
-      "download_url": "",
+      "download_url": "https://github.com/almos28X/ebooks-updates/releases/latest/download/ebooks.apk",
 
       "sha256": "",
 
@@ -21,7 +22,10 @@
       "target_sdk": 36,
 
       "changelog": [
-        "Primera versión del sistema de actualizaciones."
+        "Primera versión del sistema de actualizaciones.",
+        "Nuevo lector PDF",
+"Mejor rendimiento",
+"Corrección de errores"
       ]
     }
   }
