@@ -2,21 +2,25 @@
   "app": {
     "name": "e'Books",
     "stable": {
-      "version_name": "3.0.0",
-      "version_code": 3,
+      "version_name": "3.5.0",
+      "version_code": 4,
       "mandatory": false,
-      "release_date": "2026-07-17",
+      "release_date": "2026-10-03",
       "download_url": "https://github.com/almos28X/ebooks-updates/releases/latest/download/ebooks.apk",
       "sha256": "",
-      "apk_size": "32,9 MB",
+      "apk_size": "32,26 MB",
       "min_sdk": 33,
       "target_sdk": 36,
       "changelog": [
-        "Rediseño completo del Feed Home.",
-        "Nuevo tema automático para el lector (Reader).",
-        "Corregidos errores en el botón Tap.",
-        "Mejoradas las animaciones y transiciones.",
-        "Corregidos diversos bugs presentes en la versión anterior."
+        "Rediseño completo de la UI de la aplicación.",
+        "Nuevas animaciones para una experiencia más fluida.",
+        "Rediseño de Liquid Glass.",
+        "Implementada la navegación por categorías.",
+        "Mejorado el rendimiento general de la aplicación.",
+        "Corregida la lectura de metadatos.",
+        "Corregido el UI freezing en la BottomBar.",
+        "Corregidos diversos bugs reportados por el grupo de testers.",
+        "Mejoras generales de estabilidad y experiencia de usuario."
       ]
     }
   }
